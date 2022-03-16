@@ -1,0 +1,1 @@
+DATABASE_NAME = "specific_preloading_with_scoped_associations"
