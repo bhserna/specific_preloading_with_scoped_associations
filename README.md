@@ -56,7 +56,10 @@ ruby db/setup.rb
 3. **Run the examples** with `ruby examples/<file name>`. For example:
 
 ```
-ruby example/00_example.rb
+ruby example/00_without_scoped_association.rb
 ```
 
 4. **Change the seeds**  on `db/seeds.rb` and re-run `ruby db/setup.rb` to test different scenarios.
+
+*This example uses the [Active Record Playground](https://github.com/bhserna/active_record_playground) by [bhserna](https://bhserna.com)*
+
